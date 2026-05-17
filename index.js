@@ -12,9 +12,10 @@ app.get('/about', (req, res) => {
 
 const users = [
     {id: 1, name: 'sheikh zim', email: 'zim@gmail.com'},
-    {id: 1, name: 'shamim', email: 'shamim@gmail.com'},
-    {id: 1, name: 'rana', email: 'rana@gmail.com'},
-    {id: 1, name: 'sakib', email: 'sakib@gmail.com'},
+    {id: 2, name: 'shamim', email: 'shamim@gmail.com'},
+    {id: 3, name: 'rana', email: 'rana@gmail.com'},
+    {id: 4, name: 'sakib', email: 'sakib@gmail.com'},
+    {id: 5, name: 'tamim', email: 'tamim@gmail.com'},
 ]
 
 
